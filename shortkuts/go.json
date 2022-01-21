@@ -1,0 +1,32 @@
+{
+    "shortcuts": [
+        {
+            "alias": "gb",
+            "command": "go build"  
+        },
+        {
+            "alias": "gc",
+            "command": "go clean"
+        },
+        {
+            "alias": "gf",
+            "command": "go fmt"
+        },
+        {
+            "alias": "gg",
+            "command": "go get"
+        },
+        {
+            "alias": "gi",
+            "command": "go install"
+        },
+        {
+            "alias": "gl",
+            "command": "go list"
+        },
+        {
+            "alias": "gr",
+            "command": "go run"
+        }
+    ]
+}

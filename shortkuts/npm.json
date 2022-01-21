@@ -5,16 +5,12 @@
             "command": "npm install"
         },
         {
-            "alias": "ndt",
+            "alias": "ndoc",
             "command": "npm doctor"
         },
         {
-            "alias": "nu",
+            "alias": "nau",
             "command": "npm audit"
-        },
-        {
-            "alias": "npub",
-            "command": "npm publish"
         },
         {
             "alias": "nu",
@@ -23,6 +19,10 @@
         {
             "alias": "nc",
             "command": "npm cache"
+        },
+        {
+            "alias": "nr",
+            "command": "npm run"
         }
     ]
 }

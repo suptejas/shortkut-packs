@@ -23,10 +23,6 @@
         {
             "alias": "ff",
             "command": "flutter format"
-        },
-        {
-            "alias": "fh",
-            "command": "flutter --help"
         }
     ]
 }

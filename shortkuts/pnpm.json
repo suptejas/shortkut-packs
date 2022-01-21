@@ -1,0 +1,20 @@
+{
+    "shortcuts": [
+        {
+            "alias": "pni",
+            "command": "pnpm install"
+        },
+        {
+            "alias": "pnau",
+            "command": "pnpm audit"
+        },
+        {
+            "alias": "pnu",
+            "command": "pnpm uninstall"
+        },
+        {
+            "alias": "pns",
+            "command": "pnpm store"
+        }
+    ]
+}

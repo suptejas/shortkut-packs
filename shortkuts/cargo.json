@@ -1,15 +1,23 @@
 {
     "shortcuts": [
         {
-            "alias": "cru",
+            "alias": "cn",
+            "command": "cargo new"  
+        },
+        {
+            "alias": "cr",
             "command": "cargo run"
         },
         {
-            "alias": "cck",
+            "alias": "crr",
+            "command": "cargo run --release"
+        },
+        {
+            "alias": "cc",
             "command": "cargo check"
         },
         {
-            "alias": "cbu",
+            "alias": "cb",
             "command": "cargo build"
         },
         {
