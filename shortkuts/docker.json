@@ -1,0 +1,44 @@
+{
+  "shortcuts": [
+    {
+      "alias": "dr",
+      "command": "docker run"
+    },
+    {
+      "alias": "db",
+      "command": "docker build"
+    },
+    {
+      "alias": "dis",
+      "command": "docker images"
+    },
+    {
+      "alias": "dcs",
+      "command": "docker container ls"
+    },
+    {
+      "alias": "dp",
+      "command": "docker pull"
+    },
+    {
+      "alias": "ds",
+      "command": "docker start"
+    },
+    {
+      "alias": "dt",
+      "command": "docker tag"
+    },
+    {
+      "alias": "drm",
+      "command": "docker rm"
+    },
+    {
+      "alias": "drmi",
+      "command": "docker rmi"
+    },
+    {
+      "alias": "dip",
+      "command": "docker image prune"
+    }
+  ]
+}
