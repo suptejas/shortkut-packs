@@ -1,0 +1,28 @@
+{
+    "shortcuts": [
+        {
+            "alias": "fn",
+            "command": "fleet new"  
+        },
+        {
+            "alias": "fr",
+            "command": "fleet run"
+        },
+        {
+            "alias": "frr",
+            "command": "fleet run --release"
+        },
+        {
+            "alias": "fc",
+            "command": "fleet check"
+        },
+        {
+            "alias": "fb",
+            "command": "fleet build"
+        },
+        {
+            "alias": "fbr",
+            "command": "fleet build --release"
+        }
+    ]
+}

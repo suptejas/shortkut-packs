@@ -1,0 +1,28 @@
+{
+    "shortcuts": [
+        {
+            "alias": "ngs",
+            "command": "ngrok start"
+        },
+        {
+            "alias": "ngconf",
+            "command": "ngrok config"
+        },
+        {
+            "alias": "nghttp",
+            "command": "ngrok http"
+        },
+        {
+            "alias": "ngtls",
+            "command": "ngrok tls"
+        },
+        {
+            "alias": "ngtcp",
+            "command": "ngrok tcp"
+        },
+        {
+            "alias": "ngup",
+            "command": "ngrok update"
+        }
+    ]
+}
