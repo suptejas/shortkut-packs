@@ -1,0 +1,56 @@
+{
+    "shortcuts": [
+        {
+            "alias": "kapp",
+            "command": "kubectl apply"
+        },
+        {
+            "alias": "katt",
+            "command": "kubectl attach"
+        },
+        {
+            "alias": "kas",
+            "command": "kubectl autoscale"
+        },
+        {
+            "alias": "kci",
+            "command": "kubectl cluster-info"
+        },
+        {
+            "alias": "kconf",
+            "command": "kubectl config"
+        },
+        {
+            "alias": "kcp",
+            "command": "kubectl cp"
+        },
+        {
+            "alias": "kcr",
+            "command": "kubectl create"
+        },
+        {
+            "alias": "kdl",
+            "command": "kubectl delete"
+        },
+        {
+            "alias": "kedit",
+            "command": "kubectl edit"
+        },
+        {
+            "alias": "kexec",
+            "command": "kubectl exec"
+        },
+        {
+            "alias": "kget",
+            "command": "kubectl get"
+        },
+        {
+            "alias": "krun",
+            "command": "kubectl run"
+        },
+        {
+            "alias": "ksc",
+            "command": "kubectl scale"
+        }
+    ]
+}
