@@ -1,0 +1,24 @@
+{
+    "shortcuts": [
+        {
+            "alias": "ci",
+            "command": "conda install"
+        },
+        {
+            "alias": "ccl",
+            "command": "conda clean"
+        },
+        {
+            "alias": "crm",
+            "command": "conda remove"
+        },
+        {
+            "alias": "cl",
+            "command": "conda list"
+        },
+        {
+            "alias": "cr",
+            "command": "conda run"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "shortcuts": [
+        {
+            "alias": "binst",
+            "command": "brew install"
+        },
+        {
+            "alias": "bunist",
+            "command": "brew uninstall"
+        },
+        {
+            "alias": "bls",
+            "command": "brew list"
+        }
+    ]
+}

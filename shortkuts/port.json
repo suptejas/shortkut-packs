@@ -1,0 +1,24 @@
+{
+    "shortcuts": [
+        {
+            "alias": "pinst",
+            "command": "port install"
+        },
+        {
+            "alias": "pcl",
+            "command": "port clean"
+        },
+        {
+            "alias": "punst",
+            "command": "port uninstall"
+        },
+        {
+            "alias": "pinfo",
+            "command": "port info"
+        },
+        {
+            "alias": "psearch",
+            "command": "port search"
+        }
+    ]
+}
